@@ -1,1 +1,3 @@
-# Machine-Learning-with-OCTAVE
+# Coursera: Machine-Learning
+# Andrew NG
+# Solution for homework assignments
